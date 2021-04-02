@@ -4,8 +4,20 @@
 
 |°|Para instalação abra seu termux...
 
--Instale o Git
+Digite:
 
--Copie o meu script no termux
+Pkg update
 
--E execute-o com Python PerX.py
+Pkg upgrade
+
+Pkg install python
+
+Pkg install git
+
+Git clone https://github.com/dev666EXE/PerX
+
+Ls
+
+Cd PerX
+
+Python Perx.py
