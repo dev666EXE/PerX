@@ -2,7 +2,7 @@ print ("Bem-vindo ao PerX")
 print()
 print ("»Criador-Stefan Monteiro")
 print ("»Whatssap-935461678«")
-print ("»[Descenders]«"]
+print ("»[Descenders]«")
 print()
 print ("[Soma] |1|")
 print()
